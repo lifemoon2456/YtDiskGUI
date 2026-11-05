@@ -1,0 +1,5 @@
+numpy
+reedsolo
+cryptography
+yt-dlp
+PySide6
